@@ -1,6 +1,6 @@
 # Xaire l'Ami !
 
-https://CaesarDeVille.github.io/Pong-Antique/
+https://caesardeville.github.io/Pong_Antique/
 
 Pour jouer...
 
