@@ -22,7 +22,7 @@ class Partie {
             //plein écran
             //$("body")[0].requestFullscreen();
         });
-        me.demarreNouveauJeu();
+        //me.demarreNouveauJeu();
         /**
          * Liste des personnages dans le bublic
          * @type {Perso[]}

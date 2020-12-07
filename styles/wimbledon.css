@@ -76,6 +76,18 @@ body{
     flex-direction: column;
 }
 
+.gauche{
+    z-index: 3;
+    position: absolute;
+    bottom: 0;
+    width: 50%;
+    height: 230px;
+    background-image: url('./skins/wimbledon/Gauche.png');
+    background-size: 600px;
+    background-size: cover;
+    background-position: leftp;
+}
+
 .bas{
     z-index: 3;
     position: absolute;
@@ -172,11 +184,11 @@ body{
     transition: all 3s;
     box-sizing: border-box;
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0,0,0,0.8);
+    top: 25%;
+    left: 27.5%;
+    width: 45%;
+    height: 50%;
+    background: rgba(227,152,85,0.8);
     z-index: 1;
     display: flex;
 
