@@ -12,29 +12,29 @@
 
 #perso1{
     background-image: url("./skins/wimbledon/public/1.png");
-    margin-top: 15px;
-    margin-left: -570px;
+    margin-top: 1.5%;
+    margin-left: -60%;
 
 }
 #perso2{
     background-image: url("./skins/wimbledon/public/2.png");
-    margin-top: 10px;
-    margin-left: -90px;
+    margin-top: 1%;
+    margin-left: -10%;
 }
 #perso3{
     background-image: url("./skins/wimbledon/public/3.png");
-    margin-top: 130px;
-    margin-left: 175px;
+    margin-top: 15%;
+    margin-left: 18%;
 }
 #perso4{
     background-image: url("./skins/wimbledon/public/4.png");
-    margin-top: 9px;
-    margin-left: 410px;
+    margin-top: 1%;
+    margin-left: 40%;
 }
 #perso5{
     background-image: url("./skins/wimbledon/public/5.png");
-    margin-top: -1px;
-    margin-left: 700px;
+    margin-top: -0%;
+    margin-left: 71%;
 }
 
 @keyframes perso {

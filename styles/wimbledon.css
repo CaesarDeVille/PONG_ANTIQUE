@@ -93,14 +93,14 @@ body{
     position: absolute;
     bottom: 0;
     width: 50%;
-    height: 230px;
+    height: 24%;
     background-image: url('./skins/wimbledon/gradin.png');
-    background-size: 600px;
+    background-size: 95%;
     background-size: cover;
     background-position: top;
 }
 .bas .persos{
-    max-width: 900px;
+    max-width: 95%;
     display: flex;
     justify-content: space-around;
 }
@@ -128,7 +128,7 @@ body{
 
 .raquette{
     --hauteur:30%;
-    width: 30px;
+    width: 4%;
     height:var(--hauteur);
     outline-offset: -1px;
     top:calc( 50% - var(--hauteur) / 2  );
